@@ -82,7 +82,7 @@
     "typescript": "^5.1.3"
   },
   "dependencies": {
-    "langchain": "^0.0.110",
+    "langchain": "^0.0.186",
     "node-fetch": "^3.3.1",
     "web-file-polyfill": "^1.0.4",
     "web-streams-polyfill": "^3.2.1"
